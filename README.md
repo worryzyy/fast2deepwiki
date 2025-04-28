@@ -48,14 +48,6 @@ After installation, simply visit any GitHub repository page, and the script will
 2. In the action bar at the top of the page (the area containing Watch, Star, Fork), you will see a new "DeepWiki" button
 3. Click this button to open the corresponding DeepWiki page of the repository in a new tab
 
-## Features
-
-- Automatically matches the current GitHub repository and generates the corresponding DeepWiki link
-- Elegant button design that integrates with the GitHub native interface
-- Subtle animation effects and interaction feedback
-- Automatically adapts to changes in GitHub page structure
-- Supports various repository pages (home, code, Issues, etc.)
-
 ## Troubleshooting
 
 If you encounter problems during use:
