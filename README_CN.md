@@ -5,7 +5,7 @@
 <a href="./README_CN.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
 </p>
 
-This Tampermonkey Script can add a `DeepWiki` link button next to the `Readme` link on the GitHub repository page, allowing you to jump directly to the DeepWiki page of the corresponding repository.
+这个油猴脚本（Tampermonkey Script）可以在 GitHub 仓库页面的 Readme 链接旁边添加一个 DeepWiki 链接按钮，方便您直接跳转到对应仓库的 DeepWiki 页面。
 
 ![DeepWiki按钮预览](./preview.png)
 
