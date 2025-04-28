@@ -8,6 +8,8 @@
 // @match        https://github.com/*
 // @grant        none
 // @license      MIT
+// @updateURL    https://github.com/worryzyy/fast2deepwiki/raw/refs/heads/master/fast2deepwiki.user.js
+// @downloadURL  https://github.com/worryzyy/fast2deepwiki/raw/refs/heads/master/fast2deepwiki.user.js
 // ==/UserScript==
 
 ;(function () {
