@@ -25,14 +25,14 @@
 1. 确保您已经安装了 Tampermonkey 或其他用户脚本管理器
 2. 点击下面的安装链接：
 
-   [安装 GitHub 到 DeepWiki 跳转脚本](https://github.com/worryzyy/fast2deepwiki/raw/refs/heads/main/fast2deepwiki.user.js)
+   [安装 GitHub 到 DeepWiki 跳转脚本](https://github.com/worryzyy/fast2deepwiki/raw/refs/heads/master/fast2deepwiki.user.js)
 
 3. Tampermonkey 会自动识别并提示您安装脚本
 4. 点击"安装"按钮完成安装
 
 ### 方法二：手动安装
 
-1. 点击[此链接](https://github.com/worryzyy/fast2deepwiki/blob/main/fast2deepwiki.user.js)查看脚本源码
+1. 点击[此链接](https://github.com/worryzyy/fast2deepwiki/blob/master/fast2deepwiki.user.js)查看脚本源码
 2. 点击"Raw"按钮查看原始文件
 3. 复制全部代码
 4. 打开 Tampermonkey 菜单（点击浏览器工具栏中的 Tampermonkey 图标）

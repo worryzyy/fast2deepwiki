@@ -25,14 +25,14 @@ First, you need to install a user script manager. We recommend Tampermonkey:
 1. Make sure you have installed Tampermonkey or another user script manager
 2. Click the installation link below:
 
-   [Install GitHub to DeepWiki Jump Script](https://github.com/worryzyy/fast2deepwiki/raw/refs/heads/main/fast2deepwiki.user.js)
+   [Install GitHub to DeepWiki Jump Script](https://github.com/worryzyy/fast2deepwiki/raw/refs/heads/master/fast2deepwiki.user.js)
 
 3. Tampermonkey will automatically recognize and prompt you to install the script
 4. Click the "Install" button to complete the installation
 
 ### Method 2: Manual Installation
 
-1. Click [this link](https://github.com/worryzyy/fast2deepwiki/blob/main/fast2deepwiki.user.js) to view the script source code
+1. Click [this link](https://github.com/worryzyy/fast2deepwiki/blob/master/fast2deepwiki.user.js) to view the script source code
 2. Click the "Raw" button to view the original file
 3. Copy all the code
 4. Open the Tampermonkey menu (click the Tampermonkey icon in your browser toolbar)
