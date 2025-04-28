@@ -19,7 +19,7 @@
 
 	// Add page ID to debug logs to distinguish between multiple pages
 	function debugLog(message, obj = null) {
-		const debug = true // Set to true to enable debugging
+		const debug = false // Set to true to enable debugging
 		if (debug) {
 			console.log(`[DeepWiki Debug ${PAGE_INSTANCE_ID}] ${message}`, obj || '')
 		}
@@ -62,7 +62,6 @@
 			// Insert button after README link
 			deepWikiButton.style.marginLeft = '10px'
 			readmeLink.insertAdjacentElement('afterend', deepWikiButton)
-			return
 		}
 		debugLog('No suitable insertion point found')
 	}
