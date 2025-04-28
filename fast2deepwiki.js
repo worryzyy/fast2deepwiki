@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         GitHub to DeepWiki Link
-// @namespace    http://tampermonkey.net/
+// @name_zh      GitHub 到 DeepWiki 链接
+// @namespace    https://github.com/worryzyy/fast2deepwiki
 // @version      0.1
 // @description  一个快速在github仓库页面跳转到DeepWiki的脚本；A script to quickly jump to DeepWiki from the GitHub repository page
 // @author       weilei
 // @match        https://github.com/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 ;(function () {
