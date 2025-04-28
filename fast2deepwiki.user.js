@@ -2,7 +2,7 @@
 // @name         GitHub to DeepWiki Link
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Add a beautiful DeepWiki link button to GitHub repository pages by locating README link
+// @description  一个快速在github仓库页面跳转到DeepWiki的脚本；A script to quickly jump to DeepWiki from the GitHub repository page
 // @author       weilei
 // @match        https://github.com/*
 // @grant        none
